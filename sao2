@@ -1,0 +1,8 @@
+echo "how much did yoy buy your home"
+read cost
+echo "how much are you selling your home today"
+read revenue
+echo "how much have you spent to upgrade your home"
+read maginalcost
+echo "profit for selling your home today:expr $revenue - $cost-$maginalcost
+date
